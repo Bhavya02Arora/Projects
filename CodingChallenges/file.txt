@@ -1,0 +1,4 @@
+Kubernetes learning
+Kubernetes is an open-source platform designed to automate deploying, scaling, and operating application containers. It provides a framework to run distributed systems resiliently, allowing you to manage containerized applications across a cluster of machines.
+Kubernetes abstracts away the underlying infrastructure, enabling developers to focus on their applications rather than the details of the environment. It supports a wide range of container tools, including Docker, and integrates with various cloud providers and on-premises solutions.
+Kubernetes is often used in microservices architectures, where applications are composed of multiple loosely coupled services. It provides features like service discovery, load balancing, rolling updates, and self-healing capabilities to ensure high availability and reliability of applications.
